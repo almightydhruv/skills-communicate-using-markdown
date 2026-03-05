@@ -86,7 +86,8 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 
 
 
-- [x] Completed## My Markdown Practice
+- [x] Completed
+## My Markdown Practice
 
 - Add a heading (like this one)
 - Create a bullet list
@@ -98,4 +99,3 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 
 [GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 ``` [2][3]  
-
