@@ -86,5 +86,16 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 
 
 
-- [x] Completed
+- [x] Completed## My Markdown Practice
+
+- Add a heading (like this one)
+- Create a bullet list
+- Add bold **text**
+- Task list:
+  - [x] Complete heading
+  - [ ] Add image
+
+
+[GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+``` [2][3]  
 
